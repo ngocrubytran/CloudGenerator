@@ -1,1 +1,1 @@
-Cloud Generator is used to identify clouds from pre-taken pictures in Media folder based on its RGB values. The website is host at https://ngocrubietran.pythonanywhere.com/.
+Cloud Generator is used to identify clouds based on its RGB values. The tool only works for pre-taken pictures from the cloud research porject that this tool is using for. You can dowload the picture at `media` folder.Then access the live website at https://ngocrubietran.pythonanywhere.com/ to test the tool.
